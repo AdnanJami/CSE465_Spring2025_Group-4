@@ -4,9 +4,9 @@ Project for CSE465 on 'Nurse Care Activity Recognition' using Machine Learning.
 
 | Name                                      | Email                              | Contact No.   | Contribution         |
 |-------------------------------------------|------------------------------------|--------------|----------------------|
-| Abdullah Mohammad Muntasir Adnan Jami     | abdullah.jami@northsouth.edu      | 1612109658   | [Senior Developer (10)]|
+| Abdullah Mohammad Muntasir Adnan Jami     | abdullah.jami@northsouth.edu      | 1612109658   | [Senior Developer] (10)|
 | Hasan Bin Omar                            | hasan.omar@northsouth.edu         | 1301769242   | [Junior Developer] (05)|
-| Abrar Ur Alam                             | abrar.alam@northsouth.edu         | 1733387871   | [Junior Developer] (85) |
+| Abrar Ur Alam                             | abrar.alam@northsouth.edu         | 1733387871   | [Junior Developer] (85)|
 
 ## Data Augmentation Technique
 
@@ -20,7 +20,7 @@ The dataset is augmented using **noise addition, and scaling** to increase varia
 
 We merged the original dataset with the augmented one for training.
 
-## Five fold cross validation result
+## 5-fold cross validation result
 | Metric                | Average Accuracy | Average Precision | Average Recall | Average F1-Score |
 |-----------------------|------------------|-------------------|----------------|------------------|
 | Value                 | 81.49            | 80.52             | 81.49          | 80.79            |
