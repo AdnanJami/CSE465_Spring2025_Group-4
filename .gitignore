@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+outputs/
+/raw_*.csv
+/bigact_raw_*.csv
+/field_label_*.csv
